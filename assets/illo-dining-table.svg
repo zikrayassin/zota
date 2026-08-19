@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200" role="img" aria-label="Line drawing of a round pedestal dining table with two chair backs tucked in behind it">
+  <title>Round pedestal dining table</title>
+  <g fill="none" stroke="#14395E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62 104V56a10 10 0 0 1 10-10h44a10 10 0 0 1 10 10v48"/>
+    <path d="M194 104V56a10 10 0 0 1 10-10h44a10 10 0 0 1 10 10v48"/>
+    <ellipse cx="160" cy="110" rx="94" ry="22"/>
+    <path d="M150 130v32M170 130v32"/>
+    <ellipse cx="160" cy="170" rx="38" ry="10"/>
+  </g>
+  <g fill="none" stroke="#F0912D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M146 86h28l-5 18h-18z"/>
+    <path d="M160 86V66M160 72l10-8M160 72l-10-8"/>
+  </g>
+  <path d="M18 186h284" fill="none" stroke="#14395E" stroke-width="3" stroke-linecap="round" opacity=".35"/>
+</svg>

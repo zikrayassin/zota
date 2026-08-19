@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200" role="img" aria-label="Line drawing of an arc floor lamp curving over a small accent table">
+  <title>Arc floor lamp and accent table</title>
+  <g fill="none" stroke="#14395E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 176V106c0-42 38-66 84-66 26 0 46 10 58 26"/>
+    <path d="M34 176h44"/>
+    <path d="M162 138h84M174 138v38M234 138v38"/>
+  </g>
+  <g fill="none" stroke="#F0912D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 66h44l-11 30h-22z"/>
+    <path d="M194 108v10M206 110v12M218 108v10"/>
+  </g>
+  <path d="M18 180h284" fill="none" stroke="#14395E" stroke-width="3" stroke-linecap="round" opacity=".35"/>
+</svg>

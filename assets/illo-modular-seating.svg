@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200" role="img" aria-label="Line drawing of a two-piece modular sofa next to a small side table">
+  <title>Two-piece modular sofa with side table</title>
+  <g fill="none" stroke="#14395E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88h68a10 10 0 0 1 10 10v42H30V98a10 10 0 0 1 10-10z"/>
+    <path d="M30 140h88v32H30z"/>
+    <path d="M38 172v14M110 172v14"/>
+    <path d="M136 88h68a10 10 0 0 1 10 10v42h-88V98a10 10 0 0 1 10-10z"/>
+    <path d="M126 140h88v32h-88z"/>
+    <path d="M134 172v14M206 172v14"/>
+    <path d="M238 124h68M248 124v48M296 124v48"/>
+  </g>
+  <g fill="none" stroke="#F0912D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M264 108h16l-3 16h-10z"/>
+    <path d="M272 108V92"/>
+    <path d="M272 96a12 12 0 0 1 12-12 12 12 0 0 1-12 12 12 12 0 0 0-12-12 12 12 0 0 1 12 12z"/>
+  </g>
+  <path d="M18 186h284" fill="none" stroke="#14395E" stroke-width="3" stroke-linecap="round" opacity=".35"/>
+</svg>

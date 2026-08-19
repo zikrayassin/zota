@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200" role="img" aria-label="Line drawing of a tall open shelving unit holding books and a plant">
+  <title>Open shelving unit</title>
+  <g fill="none" stroke="#14395E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 26h128a8 8 0 0 1 8 8v142a8 8 0 0 1-8 8H96a8 8 0 0 1-8-8V34a8 8 0 0 1 8-8z"/>
+    <path d="M88 84h144M88 130h144"/>
+    <path d="M160 130v54"/>
+    <path d="M108 84V52M120 84V48M132 84V52"/>
+    <path d="M146 84l-4-30 8-2 6 32"/>
+    <path d="M108 184v10M212 184v10"/>
+  </g>
+  <g fill="none" stroke="#F0912D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 112h22l-4 18h-14z"/>
+    <path d="M199 112V96"/>
+    <path d="M199 100a14 14 0 0 1 14-14 14 14 0 0 1-14 14 14 14 0 0 0-14-14 14 14 0 0 1 14 14z"/>
+  </g>
+  <path d="M18 194h284" fill="none" stroke="#14395E" stroke-width="3" stroke-linecap="round" opacity=".35"/>
+</svg>

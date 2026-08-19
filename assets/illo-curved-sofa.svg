@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200" role="img" aria-label="Line drawing of a curved sofa with rolled arms and two throw cushions">
+  <title>Curved sofa with rolled arms</title>
+  <g fill="none" stroke="#14395E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 140V98a32 32 0 0 1 32-32h88a32 32 0 0 1 32 32v42"/>
+    <path d="M40 174v-46a22 22 0 0 1 44 0v46"/>
+    <path d="M236 174v-46a22 22 0 0 1 44 0v46"/>
+    <path d="M84 146h152"/>
+    <path d="M40 174h240"/>
+    <path d="M160 146v28"/>
+    <path d="M58 174v14M262 174v14"/>
+  </g>
+  <g fill="none" stroke="#F0912D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="104" y="104" width="36" height="36" rx="10" transform="rotate(-11 122 122)"/>
+    <rect x="182" y="104" width="36" height="36" rx="10" transform="rotate(9 200 122)"/>
+  </g>
+  <path d="M18 190h284" fill="none" stroke="#14395E" stroke-width="3" stroke-linecap="round" opacity=".35"/>
+</svg>
